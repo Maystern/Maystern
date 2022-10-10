@@ -2,14 +2,14 @@
 
 Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) in [SUSTech](https://sustech.edu.cn/en/), whose supervisor is Prof. [Jianguo Zhang](https://www.sustech.edu.cn/zh/faculties/zhangjianguo.html). He is a member in [CVIP Group](https://faculty.sustech.edu.cn/zhangjg) and his research is mainly focus on artificial intelligence and machine learning.
 
-- 🔭 I’m currently working on WASM VM vulnerability
+- 🔭 I’m currently working on Special Study Lessons (including DSAA, Database, C/Cpp, Digital Logic and Introduction to Cognitive Science this semester)
 
-- 🌱 I’m currently learning Design Patterns
+- 🌱 I’m currently learning Machine Learning (Follow [Mu Li](https://space.bilibili.com/1567748478)'s steps)
 
-- 👨‍💻 All of my projects are available at https://github.com/YeeTone?tab=repositories
+- 👨‍💻 All of my projects are available at [Maystern's repo](https://github.com/Maystern?tab=repositories)
 
-- 📝 I regularly write articles on https://www.zhihu.com/people/YeeTone_WANG
+- 📝 I regularly write articles on [Maystern's Zhihu](https://www.zhihu.com/people/hhh-40-88-74) and [Maystern's Blog](https://maystern.github.io)
 
-- 📫 How to reach me yitongcool@foxmail.com
+- 📫 How to reach me maystern@163.com
 
-- ⚡ This is my first website: CS102A@SUSTech@Java http://sustechcs102a.xyz/
+
