@@ -23,6 +23,7 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
 - Machine Learning aka ML.
 
 #### Work Experience
-
+- 2021Fall Table Tennis Club of SUSTech.
+- 2022Summer Online Teaching Support Projects in Western China (aka "YunDuanXiWang" in SUSTech)
 #### Awards
 
