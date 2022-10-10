@@ -1,1 +1,1 @@
-### Hi every one! I'm Maystern aka Jiacheng Luo, a sophomore of SUSTech (South University of Science and Technology).
+### Hi, everyone! I'm Jiacheng Luo (aka Maystern), a sophomore of SUSTech majoring CS.
