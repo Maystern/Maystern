@@ -24,7 +24,7 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
 
 #### Professional Course Performance
 - CS102A Introduction to Computer Programming A
-  - `Attendence` 8 / 10, `Assignment` 500 / 500,
+  - `Attendence` 8 / 10, `Assignment` 500 / 500
   - `Project: Othello` 110 / 100
   - `Exam` 79 / 100
   - `Final` 94 or `Grade` A
