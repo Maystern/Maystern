@@ -8,7 +8,7 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
 
 - 👨‍💻 All of my projects are available at [Maystern's repo](https://github.com/Maystern?tab=repositories)
 
-- 📝 I regularly write articles on [Maystern's Zhihu](https://www.zhihu.com/people/hhh-40-88-74) and [Maystern's Blog](https://maystern.github.io)
+- 📝 I regularly write articles on [Maystern's ZhiHu](https://www.zhihu.com/people/hhh-40-88-74) and [Maystern's Blog](https://maystern.github.io)
 
 - 📫 How to reach me maystern@163.com
 
