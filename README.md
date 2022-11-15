@@ -31,5 +31,6 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
 #### Work Experience
 - `2021-Fall` Table Tennis Club Officer of SUSTech
 - `2022-Summer` Online Teaching Support in Western China Projects (aka "[YunDuanXiWang](https://space.bilibili.com/1142024190)" in SUSTech) Student Teacher 
+- `2022-Fall` President of the Table Tennis Club of SUSTech
 #### Awards
 - `2022-Fall` SUSTech Excellent Student Scholarship 1st Prize 
