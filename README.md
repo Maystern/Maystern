@@ -35,6 +35,11 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
   - `Project: Peer Learning Survey` 47 / 50
   - `Final Exam：Take Home Essay`  18 / 20
   - `Final` 90  `Grade` A-  `GPA` 3.85 / 4.00
+- CS105 Lab of Introduction to Cognitive Science
+  - `Attendance` 17 / 20
+  - `Homework` 26 / 30
+  - `Project: Peer Learning Survey` 47 / 50
+  - `Final` 90  `Grade` A-  `GPA` PASS / 4.00
 #### Work Experience
 - `2021-Fall` Table Tennis Club Officer of SUSTech
 - `2022-Summer` Online Teaching Support in Western China Projects (aka "[YunDuanXiWang](https://space.bilibili.com/1142024190)" in SUSTech) Student Teacher 
