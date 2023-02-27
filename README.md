@@ -42,16 +42,16 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
   - `Final` 90  `Grade` Pass (because of PF course)
 - CS207 Digital Logic
   - `Attendance in Labs` 5 / 5, `Attendance in Lectures` 5 / 5
-  - `Assignment` 19.95 / 20
+  - `Assignment` 99.75 / 100
   - `Project: A Real Car` 27 / 20 (8 / 8 bonus for excellent performance)
-  - `Mid-Exam` 6.95 / 10
-  - `Final-Exam` 33.20 / 40
+  - `Mid-Exam` 69.5 / 100
+  - `Final-Exam` 83 / 100
   - `Final` 98  `Grade` A+
 - CS307 Database Principle
   - `Attendance` 10 / 10
-  - `Assignment` 24 / 24
-  - `Project: SUSTC` 36 / 36
-  - `Exam` 24.6 / 30
+  - `Assignment` 100 / 100
+  - `Project: SUSTC` 103 / 100 (no bonus here)
+  - `Exam` 82 / 100
   - `Final` 95  `Grade` A
 #### Work Experience
 - `2021-Fall` Table Tennis Club Officer of SUSTech
