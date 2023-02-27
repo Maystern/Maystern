@@ -47,6 +47,12 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
   - `Mid-Exam` 6.95 / 10
   - `Final-Exam` 33.20 / 40
   - `Final` 98  `Grade` A+
+- CS307 Database principle
+  - `Attendance` 10 / 10
+  - `Assignment` 24 / 24
+  - `Project: SUSTC` 36 / 36
+  - `Exam` 24.6 / 30
+  - `Final` 95  `Grade` A
 #### Work Experience
 - `2021-Fall` Table Tennis Club Officer of SUSTech
 - `2022-Summer` Online Teaching Support in Western China Projects (aka "[YunDuanXiWang](https://space.bilibili.com/1142024190)" in SUSTech) Student Teacher 
