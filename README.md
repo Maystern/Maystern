@@ -47,7 +47,7 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
   - `Mid-Exam` 6.95 / 10
   - `Final-Exam` 33.20 / 40
   - `Final` 98  `Grade` A+
-- CS307 Database principle
+- CS307 Database Principle
   - `Attendance` 10 / 10
   - `Assignment` 24 / 24
   - `Project: SUSTC` 36 / 36
