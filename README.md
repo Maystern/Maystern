@@ -53,6 +53,7 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
   - `Project: SUSTC` 103 / 100 (no bonus here)
   - `Exam` 82 / 100
   - `Final` 95  `Grade` A `GPA` 3.94 / 4.00
+
  - CS205 C/CPP Design
   - `Lecture Exercise` 98.3 / 100
   - `Lab Exercise` 100 / 100
