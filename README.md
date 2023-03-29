@@ -53,13 +53,13 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
   - `Project: SUSTC` 103 / 100 (no bonus here)
   - `Exam` 82 / 100
   - `Final` 95  `Grade` A `GPA` 3.94 / 4.00
-
- - CS205 C/CPP Design
+- CS205 C/CPP Design
   - `Lecture Exercise` 98.3 / 100
   - `Lab Exercise` 100 / 100
   - `Project: Average score of 5 Projects` 92.6 / 100
   - `Exam` 70 / 100
   - `Final` 88  `Grade` B+ `GPA` 3.73 / 4.00
+
 #### Work Experience
 - `2021-Fall` Table Tennis Club Officer of SUSTech
 - `2022-Summer` Online Teaching Support in Western China Projects (aka "[YunDuanXiWang](https://space.bilibili.com/1142024190)" in SUSTech) Student Teacher 
