@@ -11,7 +11,7 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
 
 - 📝 I regularly write articles on [Maystern's ZhiHu](https://www.zhihu.com/people/hhh-40-88-74) and [Maystern's Blog](https://maystern.github.io)
 
-- 📫 How to reach me maystern@163.com
+- 📫 How to reach me https://mr.jiachengluo@gmail.com
 
 ![Maystern's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maystern&show_icons=true&count_private=true)
 
