@@ -19,8 +19,9 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
 
 #### Research Area
 
-- Artificial Intelligence aka AI.
-- Machine Learning aka ML.
+- Artificial Intelligence
+  - Few-shot Learning
+  - Multimodal Deep Learning
 
 #### Professional Course Performance
 
