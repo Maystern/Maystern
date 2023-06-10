@@ -111,6 +111,11 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
 </ul>
 </p>
 </details>
+<details>
+  <summary>CS209A Computer System Design and Applications A: <code>Final</code> 96  <code>Grade</code> A <code>GPA</code> 3.94 / 4.00 </summary>
+  <p><ul>
+<ul><li><code>Quiz1</code> 6 / 7	<code>Quiz2</code>	8 / 8	<code>Quiz3</code>	10 / 10</li><li><code>Assignment1</code> 100 / 100 <code>Assignment2</code> 112 / 100 </li><li><code>Standardization</code> 4 / 4</li><li><code>Lab</code> 16 / 15</li><li><code>project</code> 99.5 / 100 （+ bous <code>1.8 / 2.0</code>)</li><li><code>Final-Exam</code> 73.5 /100</li><li><code>Final</code> 96  <code>Grade</code> A <code>GPA</code> 3.94 / 4.00</li></ul>
+</details>
 
 
 
@@ -162,6 +167,14 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
   - `Final-Exam` 80 / 100
   - `Bonus` +2
   - `Final` 89  `Grade` B+ `GPA` 3.73 / 4.00
+ - CS209A Computer System Design and Applications A
+  - `Quiz1` 6 / 7	`Quiz2`	8 / 8	`Quiz3`	10 / 10
+  - `Assignment1` 100 / 100 `Assignment2` 112 / 100 
+  - `Standardization` 4 / 4
+  - `Lab` 16 / 15
+  - `project` 99.5 / 100 （+ bous `1.8 / 2.0`)
+  - `Final-Exam` 73.5 /100
+  - `Final` 96  `Grade` A `GPA` 3.94 / 4.00
 -->
 #### Work Experience
 - `2021-Fall` Table Tennis Club Officer of SUSTech
