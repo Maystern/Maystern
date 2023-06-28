@@ -173,8 +173,16 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
   - `Standardization` 4 / 4
   - `Lab` 16 / 15
   - `project` 99.5 / 100 （+ bous `1.8 / 2.0`)
-  - `Final-Exam` 73.5 /100
+  - `Final-Exam` 72.5 /100
   - `Final` 96  `Grade` A `GPA` 3.94 / 4.00
+ - CS202 Computer Organization
+   - `Assignment` 92.75 / 100
+   - `Attenence` 100 / 100
+   - `Lab: Exercise & OJ` 100 / 100
+   - `Project: CPU` 134 / 100
+   - `Mid-Exam` 79/ 100
+   - `Final-Exam` 91 / 100
+   - `Final` 95  `Grade` A `GPA` 3.94 / 4.00
 -->
 #### Work Experience
 - `2021-Fall` Table Tennis Club Officer of SUSTech
