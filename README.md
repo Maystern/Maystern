@@ -189,6 +189,6 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
 - `2022-Summer` Online Teaching Support in Western China Projects (aka "[YunDuanXiWang](https://space.bilibili.com/1142024190)" in SUSTech) Student Teacher 
 - `2022-Fall` President of the Table Tennis Club of SUSTech
 - `2023-Spring` Student Assistant of CS205 C/CPP Design
-- `2023-Fall` Student Assistant of CS201 Discrete Mathematics
+- `2023-Fall` Teaching Assistant of CS201 Discrete Mathematics
 #### Awards
 - `2022-Fall` SUSTech Excellent Student Scholarship 1st Prize 
