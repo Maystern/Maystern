@@ -27,7 +27,7 @@ Jiacheng Luo is a sophomore at department of [CSE](https://cse.sustech.edu.cn/) 
 
 - CS102A Introduction to Computer Programming A: Final `94` Grade `A`
 - CS106 Introduction to Cognitive Science: Final `90` Grade `A-`
-- CS105 Lab of Introduction to Cognitive Science: Final `90` Grade `Pass` (because of PF course)
+- CS105 Lab of Introduction to Cognitive Science: Final `90` Grade `Pass`
 - CS207 Digital Logic: Final `98` Grade `A+`
 - CS307 Database Principle: Final `95` Grade `A`
 - CS205 C/CPP Design: Final `88` Grade `B+`
