@@ -9,7 +9,7 @@ The main **research areas** of the **CVIP Group** laboratory are ***computer vis
 
 My research interests include ***Multi-Modal Machine Learning (MMML)***, ***Few-Shot Learning (FSL)***, and ***Parameter-Efficient Fine-Tuning (PEFT)***. 
 
-This is my personal academic homepage. Welcome to visit: [https://maystern.github.io](https://maystern.github.io).
+This is my personal academic homepage: [https://maystern.github.io](https://maystern.github.io). Welcome to visit!
 
 ## Academic Background
 
