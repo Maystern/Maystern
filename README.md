@@ -1,48 +1,57 @@
-### Hi, everyone! I'm Jiacheng Luo, a junior student of SUSTech, majoring Computer Science.
 
-#### Personal Introduction
-Jiacheng Luo is a junior student at department of [CSE](https://cse.sustech.edu.cn/) in [SUSTech](https://sustech.edu.cn/en/), whose supervisor is Prof. [Jianguo Zhang](https://www.sustech.edu.cn/zh/faculties/zhangjianguo.html). He is a member in [CVIP Group](https://faculty.sustech.edu.cn/zhangjg) and his research is mainly focus on deep learning.
+## Basic Information
+I am **Jiacheng Luo (罗嘉诚)**, a junior student majoring in **[CSE](https://cse.sustech.edu.cn/en/)** , specializing in **Computer Science and Technology** at  **[SUSTech](https://www.sustech.edu.cn/en/)**. Currently, my **academic advisor** is **[Prof. Jianguo Zhang](https://www.sustech.edu.cn/en/faculties/zhangjianguo.html)**, and **my life advisor** is **[Assistant Prof. Bin Zhu](https://www.sustech.edu.cn/en/faculties/bin-zhu.html)**. 
 
-- 🔭 I’m currently working on Professional Courses
+-  **[Prof. Jianguo Zhang](https://www.sustech.edu.cn/en/faculties/zhangjianguo.html)** is the leader of the **[CVIP Group](https://faculty.sustech.edu.cn/?tagid=zhangjg&iscss=1&snapid=1&orderby=date&go=1&lang=en)** laboratory at SUSTech and has previously served as a Reader in the School of Science and Engineering at the University of Dundee, UK, as well as the Director of International Cooperation in the Department of Computer Science. 
+- **[Dr. Bin Zhu](https://www.sustech.edu.cn/en/faculties/bin-zhu.html)** is an assistant professor and doctoral supervisor of the **[SPHEM](https://sph.sustech.edu.cn/)** (School of Public Health and Emergency Management) in SUSTech.
 
-- 🌱 I’m currently learning Machine Learning (Follow [Mu Li](https://space.bilibili.com/1567748478)'s steps)
+The main **research areas** of the **CVIP Group** laboratory are ***computer vision***, ***medical image and information processing***, ***machine learning***, and ***artificial intelligence***. 
 
-- 👨‍💻 All of my projects are available at [Maystern's repo](https://github.com/Maystern?tab=repositories)
+My research interests include ***Multi-Modal Machine Learning (MMML)***, ***Few-Shot Learning (FSL)***, and ***Parameter-Efficient Fine-Tuning (PEFT)***. 
 
-- 📝 I regularly write articles on [Maystern's ZhiHu](https://www.zhihu.com/people/hhh-40-88-74) and [Maystern's Blog](https://maystern.github.io)
+## Academic Background
 
-- 📫 How to reach me [https://mr.jiachengluo@gmail.com](https://mr.jiachengluo@gmail.com)
+- ***Sept 2021 - Jun 2025***: Southern University of Science and Technology (BEng.)
 
-![Maystern's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maystern&show_icons=true&count_private=true)
+## Research Interests
 
-![Maystern's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maystern&layout=compact)
 
-#### Research Area
+<html>
+<body>
+    <details>
+        <summary><strong><em>Multi-Modal Machine Learning (MMML)</em></strong></summary>
+        <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
+            &nbsp; &nbsp; Humans perceive the world through various sensory organs, such as the eyes, ears, and tactile senses. Multi-Modal Machine Learning (MMML) research addresses machine learning problems with different modalities of data. Common modalities include vision, text, and sound. They usually come from different sensors, and the formation of data and internal structure differ significantly. For example, images are a continuous space that naturally exists in the world, while text is a discrete space organized by human knowledge and grammar rules. The heterogeneity of multimodal data poses challenges for learning the correlations and complementarities among them.
+        </div>
+    </details>
+</body>
+</html>
 
-- Deep Learning for Computer Vision
-  - Prompt
-  - ViT
-    
-#### Professional Course Performance
+<html>
+<body>
+    <details>
+        <summary><strong><em>Few-Shot Learning (FSL)</em></strong></summary>
+        <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
+          &nbsp; &nbsp; Few-shot learning (FSL) is a machine learning method that trains with limited information datasets. The common practice in machine learning application fields is to provide models with as much data as possible. This is because in most machine learning applications, providing more data helps the model in making better predictions. However, few-shot learning aims to construct accurate machine learning models with fewer training data. Since the dimensionality of input data determines the cost of resources (such as time cost, computational cost, etc.), people can lower the cost of data analysis/machine learning (ML) by using few-shot learning.
+        </div>
+    </details>
+</body>
+</html>
 
-- CS102A Introduction to Computer Programming A: Final `94` Grade `A`
-- CS106 Introduction to Cognitive Science: Final `90` Grade `A-`
-- CS105 Lab of Introduction to Cognitive Science: Final `90` Grade `Pass`
-- CS207 Digital Logic: Final `98` Grade `A+`
-- CS307 Database Principle: Final `95` Grade `A`
-- CS205 C/CPP Design: Final `88` Grade `B+`
-- CS203 Data Structure and Algorithm Analysis: Final `89` Grade `B+`
-- CS209A Computer System Design and Applications A: Final `96` Grade `A`
-- CS208 Algorithm Design and Analysis:  Final `97` Grade `A+`
-- CS202 Computer Organization: Final `95` Grade `A`
-- CS201 Discrete mathematics: Final `99` Grade `A+`
-- CS112 Fundamentals of Python Programming: Final `97` Grade `A+` 
+<html>
+<body>
+    <details>
+        <summary><strong><em>Parameter-Efficient Fine-Tuning (PEFT)</em></strong></summary>
+        <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
+          &nbsp; &nbsp; In recent years, there have been many large pre-trained models in deep learning research, such as GPT-3, BERT, ViT, etc., which can achieve excellent performance in various natural language and even visual image processing tasks. However, the training cost of these large pre-trained models is very high, requiring a huge amount of computational resources and data. The Parameter-Efficient Fine-Tuning (PEFT) technique aims to improve the performance of pre-trained models on new tasks by minimizing the number of fine-tuning parameters and computational complexity, thus easing the training cost of large pre-trained models and achieving efficient transfer learning.
+        </div>
+    </details>
+</body>
+</html>
 
-#### Work Experience
-- `2021-Fall` Table Tennis Club Officer of SUSTech
-- `2022-Summer` Online Teaching Support in Western China Projects (aka "[YunDuanXiWang](https://space.bilibili.com/1142024190)" in SUSTech) Student Teacher 
-- `2022-Fall` President of the Table Tennis Club of SUSTech
-- `2023-Spring` Student Assistant of CS205 C/CPP Design
-- `2023-Fall` Teaching Assistant of CS201 Discrete Mathematics
-#### Awards
-- `2022-Fall` SUSTech Excellent Student Scholarship 1st Prize 
+
+## News and Updates
+
+- ***`[Aug 31,2023]`*** My personal academic website is online!
+- ***`[Jul 18,2023]`*** Honored to join the CVIP Group as a formal member and hope to do a good job!
+- ***`[Aug 22,2022]`*** Happy to join the CVIP Group as an unofficial attending student!
