@@ -11,6 +11,9 @@ My research interests include ***Multi-Modal Machine Learning (MMML)***, ***Few-
 
 This is my personal academic homepage: [https://maystern.github.io](https://maystern.github.io). Welcome to visit!
 
+***Contact Me***
+- email ✉️ luojc2021@mail.sustech.edu.cn / mr.jiachengluo@gmail.com
+
 ## Academic Background
 
 - ***Sept 2021 - Jun 2025***: Southern University of Science and Technology (BEng.)
