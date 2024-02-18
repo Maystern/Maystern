@@ -24,9 +24,9 @@ This is my personal academic homepage: [https://maystern.github.io](https://mays
 <html>
 <body>
     <details>
-        <summary><strong><em>Multi-Modal Machine Learning (MMML)</em></strong></summary>
+        <summary><strong><em>Domain Adaptation</em></strong></summary>
         <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
-            &nbsp; &nbsp; Humans perceive the world through various sensory organs, such as the eyes, ears, and tactile senses. Multi-Modal Machine Learning (MMML) research addresses machine learning problems with different modalities of data. Common modalities include vision, text, and sound. They usually come from different sensors, and the formation of data and internal structure differ significantly. For example, images are a continuous space that naturally exists in the world, while text is a discrete space organized by human knowledge and grammar rules. The heterogeneity of multimodal data poses challenges for learning the correlations and complementarities among them.
+            &nbsp; &nbsp; Domain adaptation refers to the process of adapting a machine learning model trained on data from one domain to perform effectively on data from a different but related domain. It addresses the challenge of domain shift, where the distributions of data between the source and target domains may differ. The goal is to minimize this distribution discrepancy and improve the model's performance on the target domain without requiring labeled data from the target domain.
         </div>
     </details>
 </body>
@@ -35,9 +35,9 @@ This is my personal academic homepage: [https://maystern.github.io](https://mays
 <html>
 <body>
     <details>
-        <summary><strong><em>Few-Shot Learning (FSL)</em></strong></summary>
+        <summary><strong><em>Transfer Learning</em></strong></summary>
         <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
-          &nbsp; &nbsp; Few-shot learning (FSL) is a machine learning method that trains with limited information datasets. The common practice in machine learning application fields is to provide models with as much data as possible. This is because in most machine learning applications, providing more data helps the model in making better predictions. However, few-shot learning aims to construct accurate machine learning models with fewer training data. Since the dimensionality of input data determines the cost of resources (such as time cost, computational cost, etc.), people can lower the cost of data analysis/machine learning (ML) by using few-shot learning.
+          &nbsp; &nbsp; Transfer learning is a technique in machine learning where knowledge gained from solving one problem is applied to a different but related problem. By leveraging pre-trained models or learned representations from a source domain, transfer learning allows for improved performance on a target task, particularly when labeled data in the target domain is limited. This approach has shown significant success across various domains, including computer vision, natural language processing, and speech recognition, enabling faster model training and better generalization with reduced data and computational resources.
         </div>
     </details>
 </body>
@@ -49,6 +49,18 @@ This is my personal academic homepage: [https://maystern.github.io](https://mays
         <summary><strong><em>Parameter-Efficient Fine-Tuning (PEFT)</em></strong></summary>
         <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
           &nbsp; &nbsp; In recent years, there have been many large pre-trained models in deep learning research, such as GPT-3, BERT, ViT, etc., which can achieve excellent performance in various natural language and even visual image processing tasks. However, the training cost of these large pre-trained models is very high, requiring a huge amount of computational resources and data. The Parameter-Efficient Fine-Tuning (PEFT) technique aims to improve the performance of pre-trained models on new tasks by minimizing the number of fine-tuning parameters and computational complexity, thus easing the training cost of large pre-trained models and achieving efficient transfer learning.
+        </div>
+    </details>
+</body>
+</html>
+
+<html>
+<body>
+    <details>
+        <summary><strong><em>Large Model Training</em></strong></summary>
+        <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
+          &nbsp; &nbsp; 
+Large model training involves the process of training machine learning or deep learning models that possess a significant number of parameters or exhibit complex architectures. It necessitates substantial computational resources, such as GPUs or TPUs, along with extensive datasets for effective training. Employing optimization algorithms like stochastic gradient descent (SGD) or its variants, large model training iteratively fine-tunes model parameters to optimize performance. Techniques like mini-batch training, regularization, and learning rate scheduling are often employed to enhance convergence and mitigate overfitting. This approach finds widespread application in fields like natural language processing, computer vision, and reinforcement learning, where intricate data patterns require sophisticated models for effective analysis and prediction.
         </div>
     </details>
 </body>
