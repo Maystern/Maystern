@@ -7,7 +7,7 @@ I am **Jiacheng Luo (罗嘉诚)**, a junior student majoring in **[CSE](https://
 
 The main **research areas** of the **CVIP Group** laboratory are ***computer vision***, ***medical image and information processing***, ***machine learning***, and ***artificial intelligence***. 
 
-My research interests include ***Domain Adaptation***, ***Transfer Learning***, ***Parameter-Efficient Fine-Tuning (PEFT)*** and ***Large Model Training***. 
+My research interests include ***Domain Adaptation***, ***Transfer Learning***, ***Parameter-Efficient Fine-Tuning*** and ***Large Model Training***. 
 
 This is my personal academic homepage: [https://maystern.github.io](https://maystern.github.io). Welcome to visit!
 
@@ -46,7 +46,7 @@ This is my personal academic homepage: [https://maystern.github.io](https://mays
 <html>
 <body>
     <details>
-        <summary><strong><em>Parameter-Efficient Fine-Tuning (PEFT)</em></strong></summary>
+        <summary><strong><em>Parameter-Efficient Fine-Tuning</em></strong></summary>
         <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
           &nbsp; &nbsp; In recent years, there have been many large pre-trained models in deep learning research, such as GPT-3, BERT, ViT, etc., which can achieve excellent performance in various natural language and even visual image processing tasks. However, the training cost of these large pre-trained models is very high, requiring a huge amount of computational resources and data. The Parameter-Efficient Fine-Tuning (PEFT) technique aims to improve the performance of pre-trained models on new tasks by minimizing the number of fine-tuning parameters and computational complexity, thus easing the training cost of large pre-trained models and achieving efficient transfer learning.
         </div>
