@@ -7,7 +7,7 @@ I am **Jiacheng Luo (罗嘉诚)**, a junior student majoring in **[CSE](https://
 
 The main **research areas** of the **CVIP Group** laboratory are ***computer vision***, ***medical image and information processing***, ***machine learning***, and ***artificial intelligence***. 
 
-My research interests include ***Multi-Modal Machine Learning (MMML)***, ***Few-Shot Learning (FSL)***, and ***Parameter-Efficient Fine-Tuning (PEFT)***. 
+My research interests include ***Domain Adaptation***, ***Transfer Learning***, ***Parameter-Efficient Fine-Tuning (PEFT)*** and ***Large Model Training***. 
 
 This is my personal academic homepage: [https://maystern.github.io](https://maystern.github.io). Welcome to visit!
 
