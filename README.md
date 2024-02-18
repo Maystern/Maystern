@@ -68,7 +68,7 @@ Large model training involves the process of training machine learning or deep l
 
 
 ## News and Updates
-- ***`[Feb 2,2024]`*** One co-authored paper has been submitted to ICML 2024 for consideration.
+- ***`[Feb 02,2024]`*** One co-authored paper has been submitted to ICML 2024 for consideration.
 - ***`[Aug 31,2023]`*** My personal academic website is online.
 - ***`[Jul 18,2023]`*** Honored to join the CVIP Group as a formal member and hope to do a good job!
 - ***`[Aug 22,2022]`*** Happy to join the CVIP Group as an unofficial attending student!
