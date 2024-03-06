@@ -16,7 +16,7 @@ This is my personal academic homepage: [https://maystern.github.io](https://mays
 
 ## Academic Background
 
-- ***Sept 2021 - Jun 2025(expected)***: Southern University of Science and Technology (BEng.)
+- ***Sept 2021 - Jun 2025 (expected)***: Southern University of Science and Technology (BEng.)
 
 ## Research Interests
 
