@@ -3,7 +3,7 @@
 I am **Jiacheng Luo (罗嘉诚)**, a junior student majoring in **[CSE](https://cse.sustech.edu.cn/en/)** , specializing in **Computer Science and Technology** at  **[SUSTech](https://www.sustech.edu.cn/en/)**. Currently, my **academic advisor** is **[Prof. Jianguo Zhang](https://www.sustech.edu.cn/en/faculties/zhangjianguo.html)**, and **my life advisor** is **[Assistant Prof. Bin Zhu](https://www.sustech.edu.cn/en/faculties/bin-zhu.html)**. 
 
 -  **[Prof. Jianguo Zhang](https://www.sustech.edu.cn/en/faculties/zhangjianguo.html)** is the leader of the **[CVIP Group](https://faculty.sustech.edu.cn/?tagid=zhangjg&iscss=1&snapid=1&orderby=date&go=1&lang=en)** laboratory at SUSTech and has previously served as a Reader in the School of Science and Engineering at the University of Dundee, UK, as well as the Director of International Cooperation in the Department of Computer Science. 
-- **[Dr. Bin Zhu](https://www.sustech.edu.cn/en/faculties/bin-zhu.html)** is an assistant professor and doctoral supervisor of the **[SPHEM](https://sph.sustech.edu.cn/)** (School of Public Health and Emergency Management) in SUSTech.
+- **[Prof. Bin Zhu](https://www.sustech.edu.cn/en/faculties/bin-zhu.html)** is an assistant professor and doctoral supervisor of the **[SPHEM](https://sph.sustech.edu.cn/)** (School of Public Health and Emergency Management) in SUSTech.
 
 The main **research areas** of the **CVIP Group** laboratory are ***computer vision***, ***medical image and information processing***, ***machine learning***, and ***artificial intelligence***. 
 
