@@ -1,4 +1,4 @@
-
+[[homepage](https://maystern.github.io)] [[CV](./docs/resume_jiacheng.pdf)]
 ## Self Introduction
 I am **Jiacheng Luo (罗嘉诚)**, a junior student majoring in **[CSE](https://cse.sustech.edu.cn/en/)** , specializing in **Computer Science and Technology** at  **[SUSTech](https://www.sustech.edu.cn/en/)**. Currently, my **academic advisor** is **[Prof. Jianguo Zhang](https://www.sustech.edu.cn/en/faculties/zhangjianguo.html)**, and **my life advisor** is **[Assistant Prof. Bin Zhu](https://www.sustech.edu.cn/en/faculties/bin-zhu.html)**. 
 
@@ -8,8 +8,6 @@ I am **Jiacheng Luo (罗嘉诚)**, a junior student majoring in **[CSE](https://
 The main **research areas** of the **CVIP Group** laboratory are ***computer vision***, ***medical image and information processing***, ***machine learning***, and ***artificial intelligence***. 
 
 My research interests include ***Domain Adaptation***, ***Transfer Learning***, ***Parameter-Efficient Fine-Tuning*** and ***Large Model Training***. 
-
-This is my personal academic homepage: [https://maystern.github.io](https://maystern.github.io). Welcome to visit!
 
 ***Contact Me***
 - email ✉️ luojc2021@mail.sustech.edu.cn / mr.jiachengluo@gmail.com
