@@ -1,4 +1,4 @@
-[[homepage](https://maystern.github.io)] [[CV](./docs/resume_jiacheng.pdf)]
+[[CV](./docs/resume_jiacheng.pdf)] [[homepage](https://maystern.github.io)] [[transcript](./docs/transcript_jiacheng.pdf)]
 ## Self Introduction
 I am **Jiacheng Luo (罗嘉诚)**, a junior student majoring in **[CSE](https://cse.sustech.edu.cn/en/)** , specializing in **Computer Science and Technology** at  **[SUSTech](https://www.sustech.edu.cn/en/)**. Currently, my **academic advisor** is **[Prof. Jianguo Zhang](https://www.sustech.edu.cn/en/faculties/zhangjianguo.html)**, and **my life advisor** is **[Assistant Prof. Bin Zhu](https://www.sustech.edu.cn/en/faculties/bin-zhu.html)**. 
 
