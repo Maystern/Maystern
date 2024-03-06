@@ -24,7 +24,7 @@ My research interests include ***Domain Adaptation***, ***Transfer Learning***, 
     <details>
         <summary><strong><em>Domain Adaptation</em></strong></summary>
         <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
-            &nbsp; &nbsp; Domain adaptation refers to the process of adapting a machine learning model trained on data from one domain to perform effectively on data from a different but related domain. It addresses the challenge of domain shift, where the distributions of data between the source and target domains may differ. The goal is to minimize this distribution discrepancy and improve the model's performance on the target domain without requiring labeled data from the target domain.
+            &nbsp; &nbsp; Domain adaptation is a field associated with machine learning and transfer learning. This scenario arises when we aim at learning a model from a source data distribution and applying that model on a different (but related) target data distribution. For instance, one of the tasks of the common spam filtering problem consists in adapting a model from one user (the source distribution) to a new user who receives significantly different emails (the target distribution). Domain adaptation has also been shown to be beneficial for learning unrelated sources. Note that, when more than one source distribution is available the problem is referred to as multi-source domain adaptation.
         </div>
     </details>
 </body>
@@ -35,7 +35,7 @@ My research interests include ***Domain Adaptation***, ***Transfer Learning***, 
     <details>
         <summary><strong><em>Transfer Learning</em></strong></summary>
         <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
-          &nbsp; &nbsp; Transfer learning is a technique in machine learning where knowledge gained from solving one problem is applied to a different but related problem. By leveraging pre-trained models or learned representations from a source domain, transfer learning allows for improved performance on a target task, particularly when labeled data in the target domain is limited. This approach has shown significant success across various domains, including computer vision, natural language processing, and speech recognition, enabling faster model training and better generalization with reduced data and computational resources.
+          &nbsp; &nbsp; Transfer learning is a technique in machine learning in which knowledge learned from a task is re-used in order to boost performance on a related task. For example, for image classification, knowledge gained while learning to recognize cars could be applied when trying to recognize trucks. This topic is related to the psychological literature on transfer of learning, although practical ties between the two fields are limited. Reusing/transferring information from previously learned tasks to new tasks has the potential to significantly improve learning efficiency.
         </div>
     </details>
 </body>
@@ -46,7 +46,7 @@ My research interests include ***Domain Adaptation***, ***Transfer Learning***, 
     <details>
         <summary><strong><em>Parameter-Efficient Fine-Tuning</em></strong></summary>
         <div style="margin-left: 20px;"> <!-- 调整这里的数值以控制缩进量 -->
-          &nbsp; &nbsp; In recent years, there have been many large pre-trained models in deep learning research, such as GPT-3, BERT, ViT, etc., which can achieve excellent performance in various natural language and even visual image processing tasks. However, the training cost of these large pre-trained models is very high, requiring a huge amount of computational resources and data. The Parameter-Efficient Fine-Tuning (PEFT) technique aims to improve the performance of pre-trained models on new tasks by minimizing the number of fine-tuning parameters and computational complexity, thus easing the training cost of large pre-trained models and achieving efficient transfer learning.
+          &nbsp; &nbsp; Parameter-efficient Fine-tuning (PEFT) is a technique used in Natural Language Processing (NLP) to improve the performance of pre-trained language models on specific downstream tasks. It involves reusing the pre-trained model’s parameters and fine-tuning them on a smaller dataset, which saves computational resources and time compared to training the entire model from scratch. PEFT achieves this efficiency by freezing some of the layers of the pre-trained model and only fine-tuning the last few layers that are specific to the downstream task. This way, the model can be adapted to new tasks with less computational overhead and fewer labeled examples. Although PEFT has been a relatively novel concept, updating the last layer of models has been in practice in the field of computer vision since the introduction of transfer learning. Even in NLP, experiments with static and non-static word embeddings were carried out early on. Parameter-efficient fine-tuning aims to improve the performance of pre-trained models, such as BERT and RoBERTa, on various downstream tasks, including sentiment analysis, named entity recognition, and question-answering. It achieves this in low-resource settings with limited data and computational resources. It modifies only a small subset of model parameters and is less prone to overfitting.
         </div>
     </details>
 </body>
