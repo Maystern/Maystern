@@ -14,7 +14,7 @@ My research interests include ***Domain Adaptation***, ***Transfer Learning***, 
 
 ## Academic Background
 
-- ***Sep 2021 - Jun 2025 (expected)***: Southern University of Science and Technology (BEng.)
+- ***Sep. 2021 - Jun. 2025 (expected)***: Southern University of Science and Technology (BEng.)
 
 ## Research Interests
 
